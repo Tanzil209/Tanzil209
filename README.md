@@ -8,8 +8,7 @@
 
 - 📫 How to reach me **tanzil.vasudeva2003@gmail.com**
 
-- 📄 Know about my experiences [ Resume ](https://drive.google.com/file/d/1FPfgZM1EUh44eh5fVhgsdQc-w54uFXZ1/view?usp=drive_link) and [Link 2](https://drive.google.com/file/d/1dP8FPmNTVmpZR62lqfeIl9jOnpz1NfQm/view?usp=sharing)
-
+- 📄 Know about my experiences [ Resume ](https://drive.google.com/file/d/1FPfgZM1EUh44eh5fVhgsdQc-w54uFXZ1/view?usp=drive_link) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanzil vasudeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzil vasudeva" height="30" width="40" /></a>
